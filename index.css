@@ -11,6 +11,7 @@ h2 {text-align: center;}
 .proyectos {color: lime; text-decoration: none;}
 .proyectos:hover {color: red;}
 header p {text-align: center;}
+.links {padding: 10px;}
 
 /* codigo para main */
 header h3 {text-align: center;}
